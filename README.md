@@ -1,6 +1,6 @@
 # 2021.03 - 2021.04  [vueBoard]
 
-🚀 #Java #Spring #vue #JavaScript #Axios #Ag_grid #Element #mariaDB  #swagger #template
+#Java #Spring #vue #JavaScript #Axios #Ag_grid #Element #mariaDB  #swagger #template
 
   1. BoardList
   
@@ -37,5 +37,3 @@
   7. Interface
   
   8. Template 
-
-
